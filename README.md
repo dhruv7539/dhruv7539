@@ -1,83 +1,62 @@
-<h1 align="center">Hey 👋, I'm Dhruv Bhanderi</h1>
+<h1 align="center">Dhruv Bhanderi</h1>
 
 <p align="center">
-  <em>A Full Stack Software Engineer & AI/ML Enthusiast 🚀<br>
-  Passionate about building scalable systems, full-stack applications, and cutting-edge AI solutions.</em>
+  Full-Stack Software Engineer and AI/ML Enthusiast<br />
+  MS in Computer Science @ USC (Class of 2026)
+</p>
+
+<p align="center">
+  <a href="https://dhruvbhanderi.net/">Website</a> •
+  <a href="https://linkedin.com/in/dhruvbhanderi7">LinkedIn</a> •
+  <a href="https://medium.com/@dhruvbhanderi7">Medium</a> •
+  <a href="mailto:dhruvbhanderi7@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## Snapshot
+- Based in **Los Angeles**, building scalable full-stack and AI-first software.
+- Previously worked as **Software Development Engineer** at **SPIGOT Developers**.
+- Interested in backend systems, applied AI, and production-grade developer tooling.
+- Open to internships, collaborations, and impactful engineering projects.
 
-- 💼 Currently pursuing **MS in Computer Science** @ USC (Class of 2026)  
-- 💻 Previously: **Software Development Engineer** @ SPIGOT Developers  
-- 🔧 Tech I love: `React` • `Node.js` • `Python` • `TypeScript` • `NLP` • `Docker`  
-- 🌍 Based in **Los Angeles** | Originally from 🇮🇳  
-- 💬 Ask me about web dev, AI projects, or scaling backend infra  
-- 🌐 Website: [dhruvbhanderi.net](https://dhruvbhanderi.net/)  
-- 📬 Contact: [LinkedIn](https://www.linkedin.com/in/dhruvbhanderi7) • [Medium](https://medium.com/@dhruvbhanderi7)
+## Current Focus (2026)
+- **Distributed systems:** high-throughput storage and reliability patterns.
+- **AI-powered applications:** practical products that combine LLM workflows with strong UX.
+- **End-to-end delivery:** Next.js/TypeScript frontends with robust backend infrastructure.
 
----
+## Featured Projects
+| Project | Summary | Stack |
+|---|---|---|
+| [distributed-file-storage](https://github.com/dhruv7539/distributed-file-storage) | GFS-inspired distributed file system with Raft consensus and chunk storage. | C++, gRPC |
+| [Fin-Nexus](https://github.com/dhruv7539/Fin-Nexus) | FinTech SaaS for account linking, transactions, and financial insights. | Next.js, TypeScript, Plaid, Dwolla |
+| [PixMod](https://github.com/dhruv7539/PixMod) | AI image editing SaaS with auth, billing, and image transformations. | Next.js, TypeScript, Cloudinary |
+| [BigBrain](https://github.com/dhruv7539/BigBrain) | Interactive learning platform with AI-assisted workflows and real-time capabilities. | TypeScript, Tailwind, Convex |
+| [Chat2SQL](https://github.com/dhruv7539/Chat2SQL) | Natural language to SQL exploration and query generation experiments. | Python, Jupyter |
+| [Machine-Translation](https://github.com/dhruv7539/Machine-Translation) | NLP work for dialect-aware translation using transformer models. | PLBART, Python |
 
-### 🧠 What I Do
-
-- ⚡ Build fast, modern full-stack applications using **React, Next.js, Node.js, and TypeScript**
-- 🧠 Craft AI solutions using **Transformers, PLBART, mT5, and NLP pipelines**
-- ☁️ Architect cloud-native solutions with **AWS, GCP, Docker, Firebase**
-- 🧩 Contribute to and lead **open-source** & startup-level SaaS platforms
-- 🧪 Love breaking things with **TDD**, optimizing infra, and rapid prototyping
-
----
-
-### 📌 Featured Projects
-
-| Project | Tech | Highlights |
-|--------|------|------------|
-| [**PixMod**](https://github.com/dhruv7539/PixMod) | TypeScript, Convex | AI-driven image editing SaaS with secure auth & payments |
-| [**Fin-Nexus**](https://github.com/dhruv7539/Fin-Nexus) | Next.js, Plaid, Dwolla | FinTech platform with live transactions and banking APIs |
-| [**BigBrain**](https://github.com/dhruv7539/BigBrain) | Convex, Tailwind | Learning platform with AI insights and real-time Q&A |
-| [**Hospital-Management**](https://github.com/dhruv7539/Hospital-Management) | Next.js, Appwrite | Appointment & patient record system for clinics |
-| [**Machine Translation**](https://github.com/dhruv7539/Machine-Translation) | PLBART, Jupyter | Custom Gujarati dialect translation model using Transformers |
-| [**Text Summarization**](https://github.com/dhruv7539/Text-Summarization) | mT5, Flask | Abstractive summarization for Gujarati news data |
-
-➡️ **More projects on my [GitHub](https://github.com/dhruv7539?tab=repositories)**
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🥇 **IBM Full Stack Software Developer** Certificate  
-- 📊 **Google Data Analytics – Foundations: Data, Data, Everywhere**  
-- 🔗 Built & contributed to projects used at **USC Annenberg Media**, internal platforms, and startups  
-
----
-
-### 🛠️ Tech Toolbox
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Tech Stack
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+## GitHub Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruv7539&show_icons=true&hide_border=true&rank_icon=github" alt="Dhruv's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv7539&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+<p>
+  <img height="165" src="https://streak-stats.demolab.com?user=dhruv7539&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
-
-### 📬 Reach Out!
-
-I'm open to internships, collaborations, and cool project ideas!
-
-📧 dhruvbhanderi7@gmail.com  
-🌐 [dhruvbhanderi.net](https://dhruvbhanderi.net)  
-📇 [Resume](https://dhruvbhanderi.net/#/resume)  
-🔗 [LinkedIn](https://linkedin.com/in/dhruvbhanderi7) • [Medium](https://medium.com/@dhruvbhanderi7)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+<sub>Last refreshed: February 2026</sub>
 
