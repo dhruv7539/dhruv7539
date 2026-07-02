@@ -15,7 +15,7 @@
 ---
 
 ## Snapshot
-- Based in **Los Angeles**, building scalable full-stack and AI-first software.
+- Building scalable full-stack and AI-first software.
 - Previously worked as **Software Development Engineer** at **SPIGOT Developers**.
 - Interested in backend systems, applied AI, and production-grade developer tooling.
 - Open to internships, collaborations, and impactful engineering projects.
